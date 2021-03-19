@@ -22,7 +22,8 @@
   ],
   "peerDependencies": {
     "react-native": "~0.59.0",
-    "react": "~16.8.3"
+    "react": "~16.8.3",
+    "@react-native-async-storage/async-storage": "^1.14.1"
   },
   "author": "Pixie Labs",
   "license": "MIT",
